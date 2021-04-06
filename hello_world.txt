@@ -1,0 +1,3 @@
+This is your first git project!
+Thanks for trying.
+You are really doing it.
